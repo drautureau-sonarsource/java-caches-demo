@@ -1,6 +1,6 @@
 package de.consol.research.cache.part04.hazelcast;
 
-import com.hazelcast.client.ClientConfig;
+import com.hazelcast.client.config.ClientConfig;
 import com.hazelcast.client.HazelcastClient;
 import com.hazelcast.core.Hazelcast;
 import com.hazelcast.core.HazelcastInstance;
